@@ -6,7 +6,7 @@ import { about } from "@/lib/data";
 
 // To add your photo: place it at public/photo.jpg (portrait, ~3:4 ratio,
 // at least 800px wide) and set HAS_PHOTO to true.
-const HAS_PHOTO = false;
+const HAS_PHOTO = true;
 
 export default function About() {
   return (
